@@ -17,7 +17,7 @@ Vue.use(Vuex)
 Vue.use(VueRouter)
 
 Vue.prototype.$http = Axios
-
+var = wt6lVzza0QFx/U33PU8DrkMbnKiu+bv9jheR0h/D
 const someUnusedProperty = new Vue({
   data: {
     myTestProperty: 2020
